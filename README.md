@@ -4,7 +4,7 @@
   </table>
 </div> 
 
-<h1 align="center">Olá 👋, Eu sou Tazedown</h1>
+<h1 align="center">Olá 👋, Eu sou Victor!</h1>
 <h3 align="center">Sou Aluno do Senai em Análise e Desenvolvimento de Sistemas</h3>
 
 <h3 align="left">Connect with me:</h3>
